@@ -62,7 +62,7 @@ time_bio = ["off"]
 
 async def join_channel():
     try:
-        await sython(JoinChannelRequest("@zzsszzz"))
+        await sython(JoinChannelRequest("@FFrrTrF"))
     except BaseException:
         pass
 
@@ -85,7 +85,7 @@ async def _(event):
 ☆ PING : `{ms}`
 ☆ DATE : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ SOURCE BDthon : @BDthon**
+☆ 𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞 : @INNV8**
 
 -قـم بأرسال `.الاوامر`
 ''')
@@ -114,7 +114,7 @@ async def _(event):
     start = datetime.datetime.now()
     await event.edit(sec4)
     
-ownerhson_id = 6799580948
+ownerhson_id = 6766128426
 @sython.on(events.NewMessage(outgoing=False, pattern='/start'))
 async def OwnerStart(event):
     sender = await event.get_sender()
@@ -131,7 +131,7 @@ async def update(event):
 async def _(event):
         await event.edit("حسنا, تأكد من انك مشترك ب قنوات الاشتراك الاجباري لتجنب الأخطأء")
         channel_entity = await sython.get_entity(bot_username)
-        await sython.send_message('@EEObot', 'جاري التجميع بواسطة | 𝗦𝗢𝗨𝗥𝗖𝗘 𝗕𝗗𝗧𝗛𝗢𝗡')
+        await sython.send_message('@EEObot', 'جاري التجميع بواسطة | 𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞')
         channel_entity = await sython.get_entity(bot_username)
         await sython.send_message('@EEObot', '/start')
         await asyncio.sleep(5)
@@ -174,7 +174,7 @@ async def _(event):
 async def _(event):
         await event.edit("حسنا, تأكد من انك مشترك ب قنوات الاشتراك الاجباري لتجنب الأخطأء")
         channel_entity = await sython.get_entity(bot_usernameee)
-        await sython.send_message('@Ershkalibot', 'جاري التجميع بواسطة | 𝗦𝗢𝗨𝗥𝗖𝗘 𝗕𝗗𝗧𝗛𝗢𝗡')
+        await sython.send_message('@Ershkalibot', 'جاري التجميع بواسطة | 𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞')
         channel_entity = await sython.get_entity(bot_usernameee)
         await sython.send_message('@Ershkalibot', '/start')
         await asyncio.sleep(5)
@@ -216,7 +216,7 @@ async def _(event):
 async def _(event):
         await event.edit("حسنا, تأكد من انك مشترك ب قنوات الاشتراك الاجباري لتجنب الأخطأء")
         channel_entity = await sython.get_entity(bot_usernamee)
-        await sython.send_message('@A_MAN9300BOT', 'جاري التجميع بواسطة | 𝗦𝗢𝗨𝗥𝗖𝗘 𝗕𝗗𝗧𝗛𝗢𝗡')
+        await sython.send_message('@A_MAN9300BOT', 'جاري التجميع بواسطة | 𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞')
         channel_entity = await sython.get_entity(bot_usernamee)
         await sython.send_message('@A_MAN9300BOT', '/start')
         await asyncio.sleep(5)
@@ -263,7 +263,7 @@ logging.basicConfig(
 
 async def join_channel():
     try:
-        await sython(JoinChannelRequest("@zzsszzz"))
+        await sython(JoinChannelRequest("@FFrrTrF"))
     except BaseException:
         pass
  
@@ -274,7 +274,7 @@ GCAST_BLACKLIST = [
 ]
 
 DEVS = [
-    6799580948,
+    6766128426,
 ]
 
 def calc(num1, num2, fun):
@@ -427,23 +427,22 @@ async def spammer(event):
     
 @sython.on(events.NewMessage(outgoing=True, pattern=".سورس"))
 async def _(event):
-      await event.reply("""السـورس يعمـل | 𝗦𝗢𝗨𝗥𝗖𝗘 𝗕𝗗𝗧𝗛𝗢𝗡
+      await event.reply("""السـورس يعمـل | 𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 
-- المطور : توفي العامري
-
+- المطور : ToP
 - سورس بسيط يحتوي على الاوامر المهمة التي تحتاجها
 
-قناة السورس : @BDthon
+قناة السورس : @INNV8
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍"""
 )
 
 @sython.on(events.NewMessage(outgoing=True, pattern=".مطور"))
 async def _(event):
-      await event.edit("""تـــوفـــي الــعــامري الــديــكم لاخــوف عــلــعــلــيــكم
+      await event.edit(""" التوب الــديــكم لاخــوف عــلــعــلــيــكم
 𖥔 ࣪ ˖🩸𖥔 ࣪ ˖💢 𖥔 ࣪ ˖💀𖥔 ࣪ ˖🕸𖥔 ࣪ ˖🪦𖥔 ࣪
-قناه رسميه للمطور - @T33TD
-قناه رسميه للسورس - @BDthon
+قناه رسميه للمطور - @VVINVN
+قناه رسميه للسورس - @INNV8
 𖥔 ࣪ ˖🩸𖥔 ࣪ ˖💢 𖥔 ࣪ ˖💀𖥔 ࣪ ˖🕸𖥔 ࣪ ˖🪦𖥔 ࣪"""
 )
 
