@@ -1,14 +1,14 @@
 {
-    "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝗕𝗗𝗧𝗛𝗢𝗡",
-    "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
+    "name": "𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞",
+    "description": " 〔اهلا بكم في تنصيب سورس صيد اليوزرات !〕",
     "stack": "container",
-    "repository": "https://github.com/tofey17/vip",
+    "repository": "https://github.com/btbbq/vip-telethone",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/tofey17/vip",
+    "website": "https://github.com/btbbq/vip-telethone",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
