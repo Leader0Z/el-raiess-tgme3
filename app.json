@@ -2,13 +2,13 @@
     "name": "𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞",
     "description": " 〔اهلا بكم في تنصيب سورس صيد اليوزرات !〕",
     "stack": "container",
-    "repository": "https://github.com/btbbq/vip-telethone",
+    "repository": "https://github.com/btbbq/vip2-telethone",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/btbbq/vip-telethone",
+    "website": "https://github.com/btbbq/vip2-telethone",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
