@@ -1,14 +1,14 @@
 {
-    "name": "𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞",
+    "name": "𝗦𝗼𝗨𝗥𝗖𝗲 𝗛𝗮𝗠𝗼",
     "description": " 〔اهلا بكم في تنصيب سورس صيد اليوزرات !〕",
     "stack": "container",
-    "repository": "https://github.com/btbbq/vip2-telethone",
+    "repository": "https://github.com/Leader0Z/el-raiess-tgme3",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/btbbq/vip2-telethone",
+    "website": "https://github.com/Leader0Z/el-raiess-tgme3",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
