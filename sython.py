@@ -85,7 +85,7 @@ async def _(event):
 ☆ PING : `{ms}`
 ☆ DATE : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ 𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞 : @INNV8**
+☆ 𝗦𝗼𝗨𝗥𝗖𝗲 𝗛𝗮𝗠𝗼 : @SoURCeHaMo**
 
 -قـم بأرسال `.الاوامر`
 ''')
@@ -131,7 +131,7 @@ async def update(event):
 async def _(event):
         await event.edit("حسنا, تأكد من انك مشترك ب قنوات الاشتراك الاجباري لتجنب الأخطأء")
         channel_entity = await sython.get_entity(bot_username)
-        await sython.send_message('@EEObot', 'جاري التجميع بواسطة | 𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞')
+        await sython.send_message('@EEObot', 'جاري التجميع بواسطة | 𝗦𝗼𝗨𝗥𝗖𝗲 𝗛𝗮𝗠𝗼')
         channel_entity = await sython.get_entity(bot_username)
         await sython.send_message('@EEObot', '/start')
         await asyncio.sleep(5)
@@ -174,7 +174,7 @@ async def _(event):
 async def _(event):
         await event.edit("حسنا, تأكد من انك مشترك ب قنوات الاشتراك الاجباري لتجنب الأخطأء")
         channel_entity = await sython.get_entity(bot_usernameee)
-        await sython.send_message('@Ershkalibot', 'جاري التجميع بواسطة | 𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞')
+        await sython.send_message('@Ershkalibot', 'جاري التجميع بواسطة | 𝗦𝗼𝗨𝗥𝗖𝗲 𝗛𝗮𝗠𝗼')
         channel_entity = await sython.get_entity(bot_usernameee)
         await sython.send_message('@Ershkalibot', '/start')
         await asyncio.sleep(5)
@@ -216,7 +216,7 @@ async def _(event):
 async def _(event):
         await event.edit("حسنا, تأكد من انك مشترك ب قنوات الاشتراك الاجباري لتجنب الأخطأء")
         channel_entity = await sython.get_entity(bot_usernamee)
-        await sython.send_message('@A_MAN9300BOT', 'جاري التجميع بواسطة | 𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞')
+        await sython.send_message('@A_MAN9300BOT', 'جاري التجميع بواسطة | 𝗦𝗼𝗨𝗥𝗖𝗲 𝗛𝗮𝗠𝗼')
         channel_entity = await sython.get_entity(bot_usernamee)
         await sython.send_message('@A_MAN9300BOT', '/start')
         await asyncio.sleep(5)
@@ -427,13 +427,13 @@ async def spammer(event):
     
 @sython.on(events.NewMessage(outgoing=True, pattern=".سورس"))
 async def _(event):
-      await event.reply("""السـورس يعمـل | 𝗦𝗼𝗨𝗿𝗖𝗲 𝗦𝗵𝗔𝗿𝗞
+      await event.reply("""السـورس يعمـل | 𝗦𝗼𝗨𝗥𝗖𝗲 𝗛𝗮𝗠𝗼
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 
 - المطور : ToP
 - سورس بسيط يحتوي على الاوامر المهمة التي تحتاجها
 
-قناة السورس : @INNV8
+قناة السورس : @SoURCeHaMo
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍"""
 )
 
@@ -441,8 +441,8 @@ async def _(event):
 async def _(event):
       await event.edit(""" التوب الــديــكم لاخــوف عــلــعــلــيــكم
 𖥔 ࣪ ˖🩸𖥔 ࣪ ˖💢 𖥔 ࣪ ˖💀𖥔 ࣪ ˖🕸𖥔 ࣪ ˖🪦𖥔 ࣪
-قناه رسميه للمطور - @VVINVN
-قناه رسميه للسورس - @INNV8
+قناه رسميه للمطور - @SoURCeHaMo
+قناه رسميه للسورس - @SoURCeHaMo
 𖥔 ࣪ ˖🩸𖥔 ࣪ ˖💢 𖥔 ࣪ ˖💀𖥔 ࣪ ˖🕸𖥔 ࣪ ˖🪦𖥔 ࣪"""
 )
 
